@@ -2,10 +2,11 @@
 
 title: 시나브로의 DEV TALK
 locale: UTF-8  #en_US
-description: Describe your website here.
-logo: site-logo.png
+description: ... 공사중...
+logo: mingdroid.jpeg
 search: true
 
+# url: http://localhost:4000
 url: http://cinabro88.github.io
 
 # Jekyll configuration
